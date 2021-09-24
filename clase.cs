@@ -1,3 +1,4 @@
+// ejemplo creacion clase y objeto en C#
 using System;
 
 namespace CoreEscuela
